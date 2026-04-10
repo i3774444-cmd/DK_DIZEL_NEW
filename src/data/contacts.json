@@ -1,12 +1,13 @@
 {
   "phone": "+375 29 144-00-40",
-  "email": "info@dkdiesel.by",
+  "email": "dkdisel@mail.ru",
   "address": "Минск, ул. Брикета, 17Б",
-  "work_hours": "Пн–Сб: 9:00–19:00",
-  "work_hours_note": "Вс — выходной",
+  "work_hours": "Пн–Пт: 9:00–18:00",
+  "work_hours_note": "Суббота, воскресенье - выходные",
   "requisites": {
-    "company": "ИП Кравцов Д.А.",
-    "unp": "УНП: 192XXXXXXX",
+    "company": "ООО \"ДК Дизель\"",
+    "unp": "УНП: 193720647",
     "account": "р/с BY00 XXXX XXXX XXXX XXXX XXXX XXXX"
-  }
+  },
+  "map_url": ""
 }
