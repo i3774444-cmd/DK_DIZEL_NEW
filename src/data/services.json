@@ -89,7 +89,13 @@
     ],
     "seo_title": "",
     "seo_description": "",
-    "image": ""
+    "image": "",
+    "faq": [
+      {
+        "q": "",
+        "a": ""
+      }
+    ]
   },
   {
     "title": "Диагностика турбин",
