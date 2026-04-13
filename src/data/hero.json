@@ -11,6 +11,10 @@
   "yandex_rating": "4.4 / 5.0",
   "yandex_reviews_count": "Яндекс · 13 отзывов",
   "partners_title": "Работаем с дизельными системами всех мировых производителей",
-  "partners": [],
+  "partners": [
+    "MAZ",
+    "MTZ",
+    "BELAZ"
+  ],
   "video_url": ""
 }
